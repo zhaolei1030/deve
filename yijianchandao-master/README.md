@@ -1,0 +1,2 @@
+通过观察提交bug请求的页面的POST的内容确定POST的内容的格式，实现一键生成bug页面。
+登陆chandao使用的是requests库里面的session。
